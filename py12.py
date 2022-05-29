@@ -1,4 +1,4 @@
-from sympy import N
+
 
 
 price = 50000
